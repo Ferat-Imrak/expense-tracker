@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jiro1/expense-tracker/static/css/main.489d9dfd.chunk.css",
+    "main.js": "/jiro1/expense-tracker/static/js/main.2bd25893.chunk.js",
+    "main.js.map": "/jiro1/expense-tracker/static/js/main.2bd25893.chunk.js.map",
+    "runtime-main.js": "/jiro1/expense-tracker/static/js/runtime-main.51ac5cbe.js",
+    "runtime-main.js.map": "/jiro1/expense-tracker/static/js/runtime-main.51ac5cbe.js.map",
+    "static/js/2.e85e92f5.chunk.js": "/jiro1/expense-tracker/static/js/2.e85e92f5.chunk.js",
+    "static/js/2.e85e92f5.chunk.js.map": "/jiro1/expense-tracker/static/js/2.e85e92f5.chunk.js.map",
+    "index.html": "/jiro1/expense-tracker/index.html",
+    "precache-manifest.dcf11255a65474634692c629405bdd12.js": "/jiro1/expense-tracker/precache-manifest.dcf11255a65474634692c629405bdd12.js",
+    "service-worker.js": "/jiro1/expense-tracker/service-worker.js",
+    "static/css/main.489d9dfd.chunk.css.map": "/jiro1/expense-tracker/static/css/main.489d9dfd.chunk.css.map",
+    "static/js/2.e85e92f5.chunk.js.LICENSE.txt": "/jiro1/expense-tracker/static/js/2.e85e92f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51ac5cbe.js",
+    "static/js/2.e85e92f5.chunk.js",
+    "static/css/main.489d9dfd.chunk.css",
+    "static/js/main.2bd25893.chunk.js"
+  ]
+}
